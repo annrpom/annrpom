@@ -21,4 +21,4 @@ find me on [![Twitter][1.2]][1] or on [![LinkedIn][2.2]][2]
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
 
 [1]: https://twitter.com/annie_pompa
-[2]: https://www.linkedin.com/in/heinz-martin/
+[2]: https://www.linkedin.com/in/annie-pompa-6bb200200/
