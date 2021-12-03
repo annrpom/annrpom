@@ -10,6 +10,9 @@ my name is annie pompa and i am a BS/MS student at Indiana University Bloomingto
 <a href="https://github.com/annrpom/annrpom">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=annrpom&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
+<a href="https://github.com/annrpom/aoc2021">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=annrpom&repo=aoc2021&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
 
 <!-- credit to https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
