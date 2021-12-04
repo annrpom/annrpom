@@ -3,14 +3,14 @@
 my name is annie pompa and i am a BS/MS student at Indiana University Bloomington:)
 
 ## tech and tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=b57614&labelColor=427b58)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=b57614&labelColor=427b58)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=b57614&labelColor=427b58)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=b57614&labelColor=427b58)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=b57614&labelColor=427b58)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=b57614&labelColor=427b58)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=b57614&labelColor=427b58)
-![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=b57614&labelColor=427b58)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=fbf1c7&labelColor=af3a03)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=427b58&labelColor=b57614)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=427b58&labelColor=b57614)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=af3a03&labelColor=b57614)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=af3a03&labelColor=b57614)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=af3a03&labelColor=b57614)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=fbf1c7&labelColor=427b58)
+![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=fbf1c7&labelColor=427b58)
 
 ## github stats
 <!-- https://github.com/anuraghazra/github-readme-stats -->
@@ -42,7 +42,7 @@ my name is annie pompa and i am a BS/MS student at Indiana University Bloomingto
 find me on [![Twitter][1.2]][1] or on [![LinkedIn][2.2]][2]
 <br><br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=annrpom&label=Profile%20views&color=0e75b6&style=flat" alt="annrpom" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=annrpom&label=Profile%20views&color=427b58&style=flat&labelColor=427b58" alt="annrpom" /> </p>
 
 [1.2]: http://i.imgur.com/wWzX9uB.png
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
