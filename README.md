@@ -1,5 +1,15 @@
-### Hi there 👋
+```lisp
+(define get-nth-helper
+  (λ (n)
+    (for/fold ([str "ca"])
+     ([i (in-range n)])
+      (string-append str "d"))))
 
+(define  get-nth-up-to-index-3
+  (λ (n ls)
+    (define fn (string->symbol (string-append (get-nth-helper n) "r")))
+    ((eval fn) ls)))
+```
 <!--
 **annrpom/annrpom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
